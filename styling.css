@@ -226,11 +226,7 @@ Projects {
     object-fit: cover;
     max-height: 40px;
   }
-  
-  img, svg {
-    vertical-align: middle !important;
-    
-}
+
 
 #Table {
   margin-top: 5%;
